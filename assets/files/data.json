@@ -1,0 +1,90 @@
+{
+    "urunler": [
+        {
+            "id": 1,
+            "kategori": 1,
+            "isim": "Kiraz",
+            "resim": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQtUmGROPiiX3g3hAEuR5NNTB_c0_mfcY_Ah8WI7xXI93TSFQ4a7vGzcYBk1BTjQCF1OLA3HgcwKkNqezU_MOJlY3j5T0Oe&usqp=CAE"
+        },
+        {
+            "id": 2,
+            "kategori": 1,
+            "isim": "Elma",
+            "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKRNQWchjrMPbrN-ATD_IXU60AfQtwKkXyog&s"
+        },
+        {
+            "id": 4,
+            "kategori": 1,
+            "isim": "Cennet Hurması",
+            "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQb0ee2z6GmClv8C__VqodwO5zr8u3WjFXJQ&s"
+        },
+        {
+            "id": 5,
+            "kategori": 2,
+            "isim": "Dolma",
+            "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapVhZwDSituJ5zND7_qL4dVAAKFP3oy5MdQ&s"
+        },
+        {
+            "id": 6,
+            "kategori": 2,
+            "isim": "Menemen",
+            "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjeo6gIkQujaKn0fz5KNWE61nCxpTpcjU4tg&s"
+        },
+        {
+            "id": 7,
+            "kategori": 1,
+            "isim": "Erik",
+            "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZrfY94FWa2zpT6oWlEO9UAm5XiGVxdCXDmQ&s"
+        },
+        {
+            "id": 8,
+            "kategori": 2,
+            "isim": "Omlet",
+            "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBypuJ0lFsiTFbjeJ_DtRbbXFovrLU__ewhg&s"
+        },
+        {
+            "id": 9,
+            "kategori": 1,
+            "isim": "Çağla",
+            "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQykvkMvlDffcRDy4JvgYHevJyYQJ1GHZgXkg&s"
+        },
+        {
+            "id": 15,
+            "kategori": 2,
+            "isim": "Cacık",
+            "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJLODBppO5qrRxNPMP8myK5W5c2VSyUb-Gg&s"
+        },
+        {
+            "id": 16,
+            "kategori": 3,
+            "isim": "Süt",
+            "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4aVGt_KPHuUyqxTds1Xwp6Ymu6HGZX7vsCw&s"
+        },
+        {
+            "id": 19,
+            "kategori": 3,
+            "isim": "Çay",
+            "resim": "https://i.nefisyemektarifleri.com/2023/09/28/cay-kac-kalori.jpg"
+        },
+        {
+            "id": 20,
+            "kategori": 3,
+            "isim": "Limonata",
+            "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusGB2DE-c3FbBF6A5S3GyqXTSAC8JXislbQ&s"
+        }
+    ],
+    "kategoriler": [
+        {
+            "id": 1,
+            "isim": "Meyveler"
+        },
+        {
+            "id": 2,
+            "isim": "Yemekler"
+        },
+        {
+            "id": 3,
+            "isim": "İçecekler"
+        }
+    ]
+}
